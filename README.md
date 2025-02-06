@@ -11,10 +11,5 @@ This repository contains a comprehensive review paper on the topic of percolatio
 - **Anahit Mkhitaryan**
 - **Maria Gevorgyan**
 
-## How to Use
-1. Download the PDF file from the repository.
-2. Read the abstract to get an overview of the paper's content.
-3. Dive into the sections of the paper for detailed information on percolation theory.
-
 ## References
 - References and citations to all the sources used in the paper are included within the document.
