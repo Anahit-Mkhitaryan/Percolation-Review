@@ -16,8 +16,5 @@ This repository contains a comprehensive review paper on the topic of percolatio
 2. Read the abstract to get an overview of the paper's content.
 3. Dive into the sections of the paper for detailed information on percolation theory.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## References
 - References and citations to all the sources used in the paper are included within the document.
